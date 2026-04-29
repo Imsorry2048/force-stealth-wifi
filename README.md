@@ -10,4 +10,4 @@ This tool is developed for educational and ethical security testing purposes onl
 # Installation
 * flash .zip as module into Magisk
 
-Tested on `Redmi note 12 (topaz)`
+Tested on `Redmi note 12 (topaz)` on `CrDroid 11.2 (15 android)` with `3.15.148 kernel`
