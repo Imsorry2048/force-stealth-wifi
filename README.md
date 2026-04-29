@@ -11,3 +11,4 @@ This tool is developed for educational and ethical security testing purposes onl
 * flash .zip as module into Magisk
 
 Tested on `Redmi note 12 (topaz)` on `CrDroid 11.2 (15 android)` with `3.15.148 kernel`
+PS. vibecoded on gemini
