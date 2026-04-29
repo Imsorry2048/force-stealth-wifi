@@ -1,0 +1,6 @@
+id=force-stealth-wifi
+name=Force Stealth Wi-Fi
+version=1.0
+versionCode=1
+author=imsorry2048
+description=A script for automatically changing Hostname, fixing TTL (128) and blocking ICMP replies on each reconnection.

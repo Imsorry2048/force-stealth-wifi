@@ -1,0 +1,2 @@
+# Включаем поддержку рандомизации MAC (если нужна)
+persist.sys.wifi_mac_randomize=1
